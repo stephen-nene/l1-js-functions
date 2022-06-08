@@ -1,0 +1,12 @@
+{
+  "name": "l1-js-functions",
+  "version": "1.0.0",
+  "description": "Sample demo for how functions work in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "author": "Ian Okumu",
+  "license": "ISC"
+}
