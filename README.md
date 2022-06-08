@@ -1,4 +1,4 @@
-# JavaScript Fundamentals
+# JavaScript Functions
 
 # Description
 This is a practice session for functions in JavaScript
